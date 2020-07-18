@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gogatwo
+    </string>
+    <string name="User">Username</string>
+    <string name="Pass">Password</string>
+    <string name="Lgn">Login</string>
+    <string name="Nwusr">New Here? Register</string>
+    <string name="suryanm">Suryanamaskar</string>
+
+</resources>
